@@ -31,7 +31,7 @@ export function ProjectsSection() {
         'Accommodates units up to 160cm x 160cm',
       ],
       technologies: ['Python', 'EES', 'AutoCAD', 'Sensor Calibration', 'CFD Analysis'],
-      image: '/project-heat-exchanger.png',
+      image: '/Khaled_portfolio/project-heat-exchanger.png',
       impact: 'Established automated testing infrastructure increasing analysis efficiency by 400%',
     },
     {
@@ -47,7 +47,7 @@ export function ProjectsSection() {
         'System performance validation',
       ],
       technologies: ['CATIA V6', 'CoolSelector', 'Cool Pack', 'Coil Designer', 'ANSYS Fluent'],
-      image: '/project-cooling.png',
+      image: '/Khaled_portfolio/project-cooling.png',
       impact: 'Delivered production-ready cooling system for luxury automotive platform',
     },
     {
@@ -63,7 +63,7 @@ export function ProjectsSection() {
         'Component standardization across 3 motor types',
       ],
       technologies: ['CATIA V6', 'KissSoft', 'FEA', 'DFM', 'SAP'],
-      image: '/project-motor.png',
+      image: '/Khaled_portfolio/project-motor.png',
       impact: 'Total annual savings of 51.4M EGP while maintaining performance standards',
     },
   ]

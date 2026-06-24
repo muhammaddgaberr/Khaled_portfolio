@@ -85,7 +85,7 @@ export function HeroSection() {
             <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-secondary/10 rounded-2xl blur-3xl" />
             <div className="relative h-full rounded-2xl overflow-hidden border border-primary/20 shadow-2xl bg-card/50 backdrop-blur-sm">
               <Image
-                src="/engineer-portrait.jpeg"
+                src="/Khaled_portfolio/engineer-portrait.jpeg"
                 alt="Khalid M. Abd El-Samea"
                 fill
                 className="object-cover"
