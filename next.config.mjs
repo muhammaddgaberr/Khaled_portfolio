@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/Khaled_Portofolio',
-  assetPrefix: '/Khaled_Portofolio',
+  basePath: '/Khaled_Portfolio',
+  assetPrefix: '/Khaled_Portfolio',
   env: {
-    NEXT_PUBLIC_BASE_PATH: '/Khaled_Portofolio',
+    NEXT_PUBLIC_BASE_PATH: '/Khaled_Portfolio',
   },
   typescript: {
     ignoreBuildErrors: true,
