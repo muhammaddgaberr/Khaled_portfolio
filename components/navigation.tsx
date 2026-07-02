@@ -66,7 +66,7 @@ export function Navigation() {
         <button
           onClick={() => {
           window.open(
-          'https://drive.google.com/uc?export=download&id=1fjTGGSP-bIqd2plvgQR4cEOuUcKQKGTw',
+          'https://drive.google.com/uc?export=download&id=1-Z1_-ANZQ5c-xcQVfoo4iOyQMtVloirT',
           '_blank')
           }}
           className="hidden md:inline-flex px-6 py-2 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-colors"
